@@ -1,6 +1,6 @@
 # Patas cache store for Memory lru
 
-The Memory (deletes the least-recently-used items) cache store engine for the [patas](
+The Memory (deletes the least-recently-used items) cache store engine for the [Patas](
     https://github.com/funwun/patas) module.
 
 ## Installation
